@@ -27,6 +27,9 @@ POST /card/
   GET /card/${name}
 ```
 
+![image](https://user-images.githubusercontent.com/53099585/229912144-f2a7f6f8-decf-4bad-a485-f0b47ef64bc1.png)
+
+
 ## Install
 
 Install the project dependencies with npm
@@ -38,8 +41,6 @@ Install the project dependencies with npm
 This command will install both the backend and frontend dependencies, and will also create the database.
 
 ## Usage
-To start the application, run the following command:
-
 To start the application, run the following command:
 
 
